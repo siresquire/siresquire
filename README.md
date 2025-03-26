@@ -1,8 +1,8 @@
-Think.Code.Create
+<h2>Think.Code.Create,/h2>
 
-trinitycodeworks(tm)
-jomacs(tm)
-digitaltechedu(tm)
-examlense(tm)
+trinitycodeworks™
+jomacs™
+digitaltechedu™
+examlense™
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
